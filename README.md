@@ -69,7 +69,7 @@ I aim to **democratize AI education**, empower youth with digital literacy, and 
 
 <p align="center">
   <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/muhammad-hussain-90b0151b8?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/your-github"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
@@ -78,7 +78,6 @@ I aim to **democratize AI education**, empower youth with digital literacy, and 
 ## 🏆 Personal Highlights
 
 - 🎓 First-generation university student from a Pashtun community.  
-- 🗣️ National Speech Competition – *Second Position Winner.*  
 - 💪 Community Leader – Organized career counseling and tech awareness sessions for rural youth.  
 - 🌱 Lifelong Learner – Exploring AI for social good, data ethics, and sustainable innovation.  
 
